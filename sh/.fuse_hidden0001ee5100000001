@@ -1,0 +1,7 @@
+cd ..
+python run.py \
+	--data_url='../datasets' \
+	--train_url='./save_h5_model' \
+	--deploy_script_path='./deploy_scripts'\
+	--num_classes=94\
+	--restore_model_path='./save_h5_model/weights_021.h5'

@@ -1,0 +1,2 @@
+The weights file will be saved here.
+The format of weights is .h5.

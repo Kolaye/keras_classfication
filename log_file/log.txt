@@ -1,0 +1,2 @@
+Here, log files will be restored.
+These event files will be used to display your loss curve and training process by tensorboard.
